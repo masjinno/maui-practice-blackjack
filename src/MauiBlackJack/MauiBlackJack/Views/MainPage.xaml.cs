@@ -1,4 +1,4 @@
-﻿namespace MauiBlackJack;
+﻿namespace MauiBlackJack.Views;
 
 public partial class MainPage : ContentPage
 {
